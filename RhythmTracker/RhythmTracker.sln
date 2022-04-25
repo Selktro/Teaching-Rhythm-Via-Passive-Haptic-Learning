@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32106.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RhythmTracker", "RhythmTracker\RhythmTracker.csproj", "{AA8E16A0-15A2-4BC0-862E-627B8FA3973E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AA8E16A0-15A2-4BC0-862E-627B8FA3973E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA8E16A0-15A2-4BC0-862E-627B8FA3973E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA8E16A0-15A2-4BC0-862E-627B8FA3973E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA8E16A0-15A2-4BC0-862E-627B8FA3973E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BA3CCC54-26DC-424E-945C-C24E85DA4D2F}
+	EndGlobalSection
+EndGlobal
